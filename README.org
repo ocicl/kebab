@@ -1,0 +1,10 @@
+* kebab
+
+Common Lisp string,symbol,keyword PascalCase <=> camelCase <=>
+snake_case <=> kebab-case(lisp-case) converter.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/pocket7878/kebab.git |
+| commit  | e7f7764                                     |
+| systems | kebab                                       |
+|---------+---------------------------------------------|
